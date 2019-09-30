@@ -1,0 +1,2 @@
+# efectos
+efectosdeexplociones
